@@ -29,4 +29,5 @@ Here are some ideas to get you started:
   <img align="left" alt="Krishna's Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
 </a>
 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=coder-KO/coder-KO)
+
+[![coder-KO Profile README Hit Counter](http://hits.dwyl.com/coder-KO/coder-KO.svg)](http://hits.dwyl.com/coder-KO/coder-KO)
