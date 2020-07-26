@@ -31,3 +31,5 @@ __________
 
 
 [![coder-KO Profile README Hit Counter](http://hits.dwyl.com/coder-KO/coder-KO.svg)](http://hits.dwyl.com/coder-KO/coder-KO)
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/coder-KO/)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/coder-KO)
