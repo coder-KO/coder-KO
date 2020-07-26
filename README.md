@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+__________
 ### Connect with me :smiley:
 <a href="https://twitter.com">
   <img align="left" alt="Krishna's Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
@@ -27,9 +27,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://medium.com/">
   <img align="left" alt="Krishna's Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
-</a>
-
-__________
+</a><br><br>
 
 
 [![coder-KO Profile README Hit Counter](http://hits.dwyl.com/coder-KO/coder-KO.svg)](http://hits.dwyl.com/coder-KO/coder-KO)
