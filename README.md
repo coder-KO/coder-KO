@@ -1,6 +1,7 @@
 ![A Hi from Krishna](/imgs/Greeting-Banner.png)
 
-### Hi there 👋
+### I am into...
+:computer: Web Developement
 
 <!--
 **coder-KO/coder-KO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
