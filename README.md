@@ -1,3 +1,5 @@
+![A Hi from Krishna](/imgs/Greeting-Banner.png)
+
 ### Hi there 👋
 
 <!--
