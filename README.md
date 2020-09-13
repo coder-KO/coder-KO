@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 
 __________
-<center>
+<div align="center">
 ### Connect with me :smiley:
 <a href="https://www.linkedin.com/in/">
   <img align="left" alt="Krishna's Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
@@ -68,4 +68,4 @@ __________
 [![coder-KO Profile README Hit Counter](http://hits.dwyl.com/coder-KO/coder-KO.svg)](http://hits.dwyl.com/coder-KO/coder-KO)
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/coder-KO/)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/coder-KO)
-</center>
+</div>
