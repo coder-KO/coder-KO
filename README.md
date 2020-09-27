@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 
-
+You can check my personal site [here](https://coder-ko.github.io/personal-site/)
 __________
 ### Connect with me :smiley:
 <a href="https://www.linkedin.com/in/">
