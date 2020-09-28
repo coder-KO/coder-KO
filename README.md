@@ -41,12 +41,12 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 
-You can check my personal site [here](https://coder-ko.github.io/personal-site/)
+##### :globe_with_meridians: You can check my personal site [here](https://coder-ko.github.io/personal-site/)
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-KO&layout=compact&theme=cobalt" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-KO&show_icons=true&hide=issues&theme=cobalt" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-KO&layout=compact&theme=cobalt" />
 
 
 __________
