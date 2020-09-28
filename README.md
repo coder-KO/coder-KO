@@ -36,22 +36,22 @@
 _________
 <h3 align="center">Connect with me :smiley:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/krishnaojha02/">
   <img alt="Krishna's Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
   </a>&nbsp
-  <a href="https://twitter.com">
+  <a href="https://twitter.com/KrishnaOjha02">
     <img alt="Krishna's Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
   </a>&nbsp
-  <a href="https://instagram.com/">
+  <a href="https://www.instagram.com/_____k.r.i.s.h.n.a____/">
     <img alt="Krishna's Instagram" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg" />
   </a>&nbsp
-  <a href="https://facebook.com/">
+  <a href="https://www.facebook.com/krishnaojha002">
     <img alt="Krishna's Facebook" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/facebook.svg"/>
   </a>&nbsp
-  <a href="https://dev.to/">
+  <a href="https://dev.to/coderko">
     <img alt="Krishna's DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
   </a>&nbsp
-  <a href="https://medium.com/">
+  <a href="https://medium.com/@drkaojha">
     <img alt="Krishna's Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
   </a>&nbsp
   <br /><br />
