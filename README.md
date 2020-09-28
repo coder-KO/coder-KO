@@ -68,10 +68,14 @@ _________
   <a href="https://medium.com/">
     <img alt="Krishna's Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
   </a>&nbsp
+  <br />
+  <a href="http://hits.dwyl.com/coder-KO/coder-KO">
+    <img alt="coder-KO Profile README Hit Counter" src="http://hits.dwyl.com/coder-KO/coder-KO.svg" />
+  </a>
+  <a>
+    <img alt="Awesome Badges" src="https://img.shields.io/badge/badges-awesome-green.svg" />
+  </a>
+  <a>
+    <img alt="Open Source Love" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" />
+  </a>
 </p> 
-<br /><br />
-
-[![coder-KO Profile README Hit Counter](http://hits.dwyl.com/coder-KO/coder-KO.svg)](http://hits.dwyl.com/coder-KO/coder-KO)
-[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/coder-KO/)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/coder-KO)
-
