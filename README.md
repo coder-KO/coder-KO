@@ -16,7 +16,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 
 ##### Technologies I have worked with
 
@@ -32,7 +31,6 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-KO&layout=compact&theme=cobalt" />
-<img src="https://github-readme-stats.vercel.app/api?username=coder-KO&show_icons=true&hide=issues&theme=cobalt" />
 
 
 _________
