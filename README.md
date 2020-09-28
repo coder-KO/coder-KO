@@ -31,8 +31,9 @@
 ##### :globe_with_meridians: You can check my personal site [here](https://coder-ko.github.io/personal-site/)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-KO&layout=compact&theme=cobalt" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=coder-KO&show_icons=true&hide=issues&theme=cobalt" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-KO&layout=compact&theme=cobalt" />
+<img src="https://github-readme-stats.vercel.app/api?username=coder-KO&show_icons=true&hide=issues&theme=cobalt" />
+
 
 _________
 <h3 align="center">Connect with me :smiley:</h3>
