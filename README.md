@@ -42,34 +42,34 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 
 ##### :globe_with_meridians: You can check my personal site [here](https://coder-ko.github.io/personal-site/)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-KO&show_icons=true&hide=issues&theme=cobalt" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-KO&layout=compact&theme=cobalt" />
-<br /><br /><br /><br /><br /><br /><br /><br />
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=coder-KO&show_icons=true&hide=issues&theme=cobalt" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-KO&layout=compact&theme=cobalt" />
 
 _________
 <h3 align="center">Connect with me :smiley:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/">
-  <img align="left" alt="Krishna's Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
-  </a>
+  <img alt="Krishna's Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+  </a>&nbsp
   <a href="https://twitter.com">
-    <img align="left" alt="Krishna's Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
-  </a>
+    <img alt="Krishna's Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+  </a>&nbsp
   <a href="https://instagram.com/">
-    <img align="left" alt="Krishna's Instagram" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg" />
-  </a>
+    <img alt="Krishna's Instagram" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg" />
+  </a>&nbsp
   <a href="https://facebook.com/">
-    <img align="left" alt="Krishna's Facebook" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/facebook.svg" />
-  </a>
+    <img alt="Krishna's Facebook" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/facebook.svg"/>
+  </a>&nbsp
   <a href="https://dev.to/">
-    <img align="left" alt="Krishna's DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
-  </a>
+    <img alt="Krishna's DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
+  </a>&nbsp
   <a href="https://medium.com/">
-    <img align="left" alt="Krishna's Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
-  </a>
-</p>  
+    <img alt="Krishna's Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
+  </a>&nbsp
+</p> 
 <br /><br />
-
 
 [![coder-KO Profile README Hit Counter](http://hits.dwyl.com/coder-KO/coder-KO.svg)](http://hits.dwyl.com/coder-KO/coder-KO)
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/coder-KO/)
